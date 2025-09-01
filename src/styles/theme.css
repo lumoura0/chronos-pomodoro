@@ -1,0 +1,9 @@
+:root {
+    --color-primary: #4c51bf;
+    --color-primary-dark: #3c366b;
+    --color-secondary: #ff6f61;
+    --color-secondary-dark: #e65c4f;
+    --color-background: #f7fafc;
+    --color-text: #2d3748;
+    --font-family: 'Helvetica Neue', Arial, sans-serif;
+}
