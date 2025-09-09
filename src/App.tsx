@@ -1,5 +1,5 @@
 
-import { Container } from './components/Container'
+import { Container } from './components/Container/index'
 import { Heading } from './components/Heading'
 import './styles/global.css'
 import './styles/theme.css'
